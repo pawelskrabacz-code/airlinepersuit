@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════════════
-//  SKYWARD — aircraft.js
+//  SKYWARD — aircraft.js  
 //  100 unique equipment codes used across 30,988 routes
 //
 //  Usage:
